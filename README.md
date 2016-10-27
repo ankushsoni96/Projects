@@ -1,1 +1,1 @@
-# Projects incubate ind
+# Projects incubate hackathon
